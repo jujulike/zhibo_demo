@@ -1,0 +1,175 @@
+@charset "utf-8";
+/* CSS Document */
+html, body, div, p, ul, ol, li, dl, dt, dd, h1, h2, h3, h4, h5, h6, form, input, select, button, textarea, iframe, table, th, td, img, a {border: medium none;margin: 0;padding: 0;}
+h4{color:#5f2e06; font-size:14px;}
+body{ background-image:url(../../images/vip_02.jpg); background-repeat:repeat-x; width:100%; height:70px; font-size:12px;}
+li{list-style:none; float:left;}
+span{ font-family: "黑体"; font-size:16px; color:#cc0000; line-height:45px;}
+
+.clear{ clear:both;}
+.header{width:1010px; margin:0 auto; padding:0px 0px 10px 0px;}
+.logo{width:385px; float:left; margin-left:10px;}
+.lj{float:right; width:600px;}
+.lj a{color:#FFFFFF; text-decoration:none; margin-top:30px; margin-left:12px; font-size:12px; float:right;}
+.lj a:hover{color:#ffd140;}
+
+.main{width:1010px;margin:0 auto;}
+.left{width:725px; float:left;}
+.zjrw{width:725px; display:block; background:url(../../images/vip_05.jpg) repeat-x; height:183px; border-left:#ead6aa 1px solid; border-right:#ead6aa 1px solid; margin-bottom:10px;}
+.zjrw ul li{float:left; width:70px;}
+#tu img{width:137px; padding-top:20px;}
+#wenzi1{width:460px; line-height:24px; padding:15px 0px 0px 90px;}
+
+.zygg{width:725px;}
+.table{ border:#e8d7b9 1px solid; width:360px; float:left; height:110px;}
+.table table {border-collapse: collapse; margin: 0 auto;width: 360px;}
+.table table thead td {border-bottom: 1px solid #E8D7B9; color: #767676; height: 27px; }
+.table table td {color: #000000; height: 25px; padding-left: 8px;}
+.table table .red {color: #FF0000; font-weight: bold; padding-left: 0; text-align: center;}
+
+.zrzb{width:725px; display:block;height:253px; border-left:#d8d8d8 1px solid; border-right:#d8d8d8 1px solid; border-bottom:#d8d8d8 1px solid; margin:10px 0px 10px 0px;}
+.lszb{ width:221px; padding:10px 5px 0px 15px; float:left;}
+.lszb img{ float:left; width:82px; padding:0px 10px 10px 0px;}
+
+.rqph{width:725px; display:block; border-left:#d8d8d8 1px solid; border-right:#d8d8d8 1px solid; border-bottom:#d8d8d8 1px solid; margin:10px 0px 10px 0px;}
+#rowone table {
+  width: 725px;
+  border-bottom: 1px dotted #e7d5b4;
+  height: 107px;
+}
+#rowone table td {
+  text-align: center;
+   line-height:44px;
+}
+#rowone table td .jian {
+  font-size: 14px;
+  font-weight: bold;
+  margin-top: 3px;
+  display: inline-block;
+}
+#rowone table td .red {
+  font-size: 14px;
+  font-weight: bold;
+  color: #f00;
+  font-family: "\5FAE\8F6F\96C5\9ED1";
+  font-size: 18px;
+}
+#rowone table td .normal {
+  font-size: 14px;
+  font-weight: bold;
+  font-family: "\5FAE\8F6F\96C5\9ED1";
+  font-size: 18px;
+}
+#rowone table .tdul {
+  width: 234px;
+  border-right: 1px solid #f5eee1;
+  text-align: left;
+}
+#rowone table .tdul ol {
+  float: left;
+}
+#rowone table .tdul ol img {
+  border: 3px solid #f1efef;
+  width: 72px;
+  height:72px;
+  float: left;
+}
+#rowone table .tdul .fwr {
+  font-size: 18px;
+  line-height: 18px;
+  font-family: "\5FAE\8F6F\96C5\9ED1";
+  margin-bottom: 8px;
+  float: left;
+}
+#rowone table .tdul li{
+	margin:0px;
+	 padding:0px;
+  line-height: 14px;
+  font-size: 14px;
+  width:150px
+}
+#rowone table .tdul span {
+  font-weight: bold;
+}
+#rowone table .tdul em {
+  color: #ff4200;
+  font-weight: bold;
+  margin-left: 8px;
+}
+#rowone table .tddl {
+  width: 305px;
+  border-right: 1px solid #f5eee1;
+  text-align: left;
+}
+#rowone table .tddl dl {
+  padding-left: 15px;
+}
+#rowone table .tddl dl dt { 
+  background-image:url(../../images/vip_59.jpg) no-repeat left;
+  padding-left: 20px;
+  color: #af7617;
+  font-weight: bold;
+  line-height: 24px;
+}
+#rowone table .tddl dl dd {
+  line-height: 24px;
+}
+
+
+.kcb{width:725px;display:block; border-left:#d8d8d8 1px solid; border-right:#d8d8d8 1px solid; border-bottom:#d8d8d8 1px solid; margin:10px 0px 10px 0px;}
+.kecheng{width:705px; margin:10px;}
+.rwxc{width:705px; margin:10px;}
+#ls{width:705px; margin:0 auto;}
+
+.ls{ width:215px; padding:10px 10px 5px 10px; float:left; line-height:20px;}
+.ls img{ float:left; width:90px; margin-right:10px;}
+
+.right{width:275px; float:right;}
+
+.dl{width:275px;float:left;background-repeat:no-repeat; margin-bottom:10px;border: 1px solid #F0D5B7;}
+#bd{width:254px; padding:2px 0px 0px 30px; line-height:41px;}
+#bb{width:265px; padding:2px 0px 0px 0px; line-height:41px;}
+.anniu { background-image:url(../../images/vip_15.jpg); border:0;cursor: pointer; width:120px; height:33px; margin:0 auto;}
+.anniu1 { background-image:url(../../images/vip_151.jpg); border:0;cursor: pointer; width:120px; height:33px; margin:0 auto;}
+.anniu2 { background-image:url(../../images/hqyzm.jpg); border:0;cursor: pointer; width:66px; height:25px; margin:0 auto;}
+
+.zc h1 img{ width:275px; padding:10px 0px 10px 0px;}
+.gd{width:275px; display:block; height:255px; border-left:#d8d8d8 1px solid; border-right:#d8d8d8 1px solid; border-bottom:#d8d8d8 1px solid; margin:10px 0px 10px 0px;float:left}
+.gd ul{background-image:url(images/vip_37.jpg); width:254px; height:119px; margin:auto;margin-top:8px;}
+.gd ul li{padding:8px; font-size:14px;}
+.gd ul li .test{ margin:0px,4px,0px,0px;}
+
+.zbbz{width:275px; display:block; height:132px; border-left:#d8d8d8 1px solid; border-right:#d8d8d8 1px solid; border-bottom:#d8d8d8 1px solid; margin-top:10px;}
+.zbbz .pos1 { padding: 10px;}
+.zbbz .ul1 { line-height: 22px; margin-bottom: 8px; padding-bottom: 6px;}
+.zbbz .ul1 img { margin-top: 5px;}
+
+.zbs{width:275px; display:block; height:356px; border-left:#d8d8d8 1px solid; border-right:#d8d8d8 1px solid; border-bottom:#d8d8d8 1px solid;margin-top:10px;}
+.zbs .pos1 {padding: 8px;}
+.zbs .ul1 { border-bottom: 1px solid #DDDDDD; line-height: 21px; margin-bottom: 5px; padding-bottom: 3px;}
+.zbs .ul2 {border-bottom: 1px solid #DDDDDD; line-height: 23px; margin-bottom: 5px; padding-bottom: 8px;}
+.zbs .ul2 img { margin-top: 5px;}
+.zbs .ul3 { line-height: 21px;}
+.zbs .ul3 span { font-weight: bold;}
+.zbs .ul3 img { margin-top: 5px;}
+
+.footer {
+    background:url(../../images/footer_x.gif) repeat-x scroll 0 0 transparent;
+    height: 199px;
+    width: 100%;
+}
+.footer_midd {
+    color: #F3DB80;
+    height: 179px;
+    line-height: 24px;
+    margin: 0 auto;
+    padding: 10px 0;
+    text-align: center;
+    width: 1010px;
+}
+.footer_midd a {
+    color: #F3DB80;text-decoration: none;
+}
+.footer_midd span {
+    color: #666666;
+}

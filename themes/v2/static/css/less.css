@@ -1,0 +1,24 @@
+
+@charset "utf-8";
+/* IE8及以下版浏览器 CSS Document */
+#user_list,#topic,.sp_ti,#kefu,#shiping{background:url(../images/g3.png) repeat;}
+#sidebar,.user_sh input,.sp_ti span,.kefu_ti a{background:url(../images/g5.png) repeat;}
+header,footer{background:url(../images/g9.png) repeat;}
+.us_mian{background:#fff;}
+.us_con .getcode{background:rgb(204,204,204);}
+.r_btn a{background:rgb(243, 245, 246);}
+.third_log a,.third_log a:hover{background:url(../images/third.png) no-repeat;}
+.third_log .qq{ background-position:right top;}
+.third_log .qq:hover{background-position:right bottom;}
+.third_log .weibo{background-position:left top;}
+.third_log .weibo:hover{background-position:left bottom;}
+.user_sh a{background:url(../images/find.png) no-repeat;}
+.kefu_ti{border-bottom:#222 1px solid;}
+.notice{border-bottom:#aaa 1px solid;}
+#ykname a{float:left;}
+#topqq{margin-left:20px;width:560px;}
+
+.us_con li{position:relative;}
+.us_con li label{position:absolute;left:15px; top:15px;height:16px;line-height:16px;font-size:16px;font-family:Verdana, Geneva, sans-serif;font-weight:normal;}
+#list_u li a,.talk_name a{color:#fff;}
+#Talkbox{background:rgb(255,255,255);}

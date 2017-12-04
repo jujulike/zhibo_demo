@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+body{ background:url(../images/login/login-bg.jpg) no-repeat #c6e5f9; margin:0 auto}
+a{ text-decoration:none; color:#2a78c2}
+.headbox {position:relative; z-index:999; margin:20px auto}
+.logo {}
+.backindex{ margin-top:30px; text-align:right;}
+.backindex a {color:#FFFFFF; font-size:14px;}
+.bgline{ background:url(../images/login/bg-line.jpg) repeat-y; width:950px; min-height:700px}
+.gridleft img{ margin:25px 0 0 9px}
+.inpu { border:1px #ddd solid; background:#fafafa; width:290px; height:28px; line-height:28px; font-weight:700; padding:2px 5px; color:#666; font-weight:100; font-size:14px}
+
+/*-----注册 wrapper -----*/
+.sign-title{font-size:20px; font-family:"微软雅黑"; color:#444; margin:28px 15px 0 25px}
+
+.wrapper{ margin:35px 0 25px 40px; color:#666}
+.wrapper td{ padding:12px 5px; text-align:left; font-size:12px; line-height:30px;}
+.wrapper td span{ color:#999;}
+input.button, input.button2{ background:url(../images/login/button.gif) no-repeat; width:131px; height:45px; border:none; cursor:pointer}
+input.button{ background-position:0 0}
+input.button2{ background-position:0 -45px}
+
+/*-----底部 footer -----*/
+#footer {line-height: 2.0em; padding:25px 0 35px 0; text-align:center }
+#footer a { color:#333; background:transparent; font-weight:100;}
+#footer a:focus,
+#footer a:hover,
+#footer a:active {color:#333; background-color:transparent; text-decoration:underline; }

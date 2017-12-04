@@ -1,0 +1,43 @@
+body {font:12px Tahoma;margin:0px;text-align:center;background:#FFF;}
+a:link,a:visited {font-size:12px;text-decoration: none;}
+a:hover{}
+
+#container {width:900px;height:600px;margin:10px auto}
+
+#header {background:url(images/logo.gif) no-repeat}
+#menu {padding:20px 20px 0 0}
+#menu ul {float:right;list-style:none;margin:0px;}
+#menu ul li {float:left;display:block;line-height:30px;margin:0 10px}
+#menu ul li a:link,#menu ul li a:visited {font-weight:bold;color:#666}
+#menu ul li a:hover{}
+.menuDiv {width:1px;height:28px;background:#999}
+#banner {background:url(images/banner.jpg) 0 30px no-repeat;width:897px;margin:auto;height:345px;border-bottom:5px solid #EFEFEF;clear:both}
+
+#pagebody {
+ width:897px; 
+ margin:8px auto;
+ background:#FFFFFF
+}
+#sidebar {
+ width:450px; 
+ text-align:left; 
+ float:left;
+ clear:left; 
+ overflow:hidden;
+ border:1px solid #FFFFFF;
+}
+#mainbody {
+ width:400px;
+ text-align:left;
+ float:right; 
+ clear:right;
+ overflow:hidden;
+ border:1px solid #FFFFFF;
+}
+
+
+
+.news{line-height:22px;color:#666666}
+
+#footer {width:900px;margin:0 auto;height:50px;background:#0E3717;color:#FFFFFF;line-height:50px;}
+

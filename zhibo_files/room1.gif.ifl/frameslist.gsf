@@ -1,0 +1,10 @@
+[Header]
+Type=GifSplitter Frames
+版本=2.0
+Count=5
+[Frames]
+IMG00000=C:\Users\Administrator\Desktop\新建文件夹\zhibo_files\room1.gif.ifl\IMG00000.bmp
+IMG00001=C:\Users\Administrator\Desktop\新建文件夹\zhibo_files\room1.gif.ifl\IMG00001.bmp
+IMG00002=C:\Users\Administrator\Desktop\新建文件夹\zhibo_files\room1.gif.ifl\IMG00002.bmp
+IMG00003=C:\Users\Administrator\Desktop\新建文件夹\zhibo_files\room1.gif.ifl\IMG00003.bmp
+IMG00004=C:\Users\Administrator\Desktop\新建文件夹\zhibo_files\room1.gif.ifl\IMG00004.bmp

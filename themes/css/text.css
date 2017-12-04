@@ -1,0 +1,93 @@
+BODY {
+	FONT: 13px/1.5 'Helvetica Neue', Arial, 'Liberation Sans', FreeSans, sans-serif
+}
+PRE {
+	FONT-FAMILY: 'DejaVu Sans Mono', Menlo, Consolas, monospace
+}
+CODE {
+	FONT-FAMILY: 'DejaVu Sans Mono', Menlo, Consolas, monospace
+}
+HR {
+	BORDER-BOTTOM: #ccc 0px solid; BORDER-LEFT: #ccc 0px solid; HEIGHT: 0px; CLEAR: both; BORDER-TOP: #ccc 1px solid; BORDER-RIGHT: #ccc 0px solid
+}
+H1 {
+	FONT-SIZE: 25px
+}
+H2 {
+	FONT-SIZE: 23px
+}
+H3 {
+	FONT-SIZE: 21px
+}
+H4 {
+	FONT-SIZE: 19px
+}
+H5 {
+	FONT-SIZE: 17px
+}
+H6 {
+	FONT-SIZE: 14px
+}
+OL {
+	LIST-STYLE-TYPE: decimal
+}
+UL {
+	LIST-STYLE-TYPE: disc
+}
+/*LI {
+	MARGIN-LEFT: 30px
+}
+*//*P {
+	MARGIN-BOTTOM: 20px
+}*/
+DL {
+	MARGIN-BOTTOM: 20px
+}
+HR {
+	MARGIN-BOTTOM: 20px
+}
+H1 {
+	MARGIN-BOTTOM: 20px
+}
+H2 {
+	MARGIN-BOTTOM: 20px
+}
+H3 {
+	MARGIN-BOTTOM: 20px
+}
+H4 {
+	MARGIN-BOTTOM: 20px
+}
+H5 {
+	MARGIN-BOTTOM: 20px
+}
+H6 {
+	MARGIN-BOTTOM:10px
+}
+OL {
+	MARGIN-BOTTOM: 20px
+}
+UL {
+	MARGIN-BOTTOM: 20px
+}
+PRE {
+	MARGIN-BOTTOM: 20px
+}
+TABLE {
+	MARGIN-BOTTOM: 10px
+}
+ADDRESS {
+	MARGIN-BOTTOM: 20px
+}
+FIELDSET {
+	MARGIN-BOTTOM: 20px
+}
+figure {
+	MARGIN-BOTTOM: 20px
+}
+.gray{ color:#999}
+.green{ color:#339933}
+.orange{ color:#ff5500}
+.orange1{ color:#642c1b}
+.height-20{ margin-top:20px}
+.f14 {font-size:14px;line-height:24px;}

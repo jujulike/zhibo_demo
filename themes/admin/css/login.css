@@ -1,0 +1,25 @@
+body{padding:0;margin:0px;font-size:12px;color:#555;font-family:Verdana;}
+select{margin-left:1.5em;vertical-align:middle;border:1px solid #b4cceb;height:22px;font-size:12px;}
+#main{width:800px;margin:auto;}
+*{padding:0;margin:0}
+input{font-size:12px;}
+#wrap{background:url(../images/login/top_01.png) center bottom no-repeat;height:170px;}
+#wrapb{background:url(../images/login/top_02.png) center  top no-repeat;height:15px;}
+#wrapc{background:url(../images/login/top_03.png) center  top no-repeat;height:350px;}
+#logo{background:url(../images/login/logo.png) center top no-repeat;height:64px;width:210px;}
+.logo{padding:100px 0 0 260px;}
+.login{margin:0 0 0 140px;padding-top:10px;}
+.login th{height:33px;line-height:33px;list-style:none;text-align:right;font-weight:normal;width:200px;font-size:12px;}
+.login td{text-align:left;font-size:12px;}
+.input{font-size:12px;vertical-align:middle;height:17px;margin-top:2px;border:1px solid #fff;color:#666;}
+.logo-icon{border: 1px solid; border-color: #8cb7e1 #e3f0fc #e3f0fc #8cb7e1;float:left;margin-left:1.5em;_margin-left:.7em;background:#fff;padding-right:.5em;}
+.logo-icon div{background:#fff url(../images/login/login-icon.gif);width:18px;float:left;margin-top:3px;margin-left:.5em;display:inline;}
+.logo-icon .pw{background-position:1px 1px;width:18px;height:20px;}
+.logo-icon .pwpd{background-position:0 -49px;width:18px;height:20px;}
+.logo-icon .yan{background-position:0 -99px;width:18px;height:20px;}
+.logo-icon .daan{background-position:1px -148px;width:18px;height:20px;}
+.logo-icon .pw2{width:9em;}
+.logo-icon .pwpd2{width:9em;}
+.logo-icon .yan2{width:6em;}
+.bottom{text-align:center;margin:auto;padding-top:1em;color:#888;}
+.showmsg{ color:#f00; font-size:14px; text-align:center; border:1px solid #FFCC00; background:#fffbc9; padding:15px 0; margin:10px auto;}
